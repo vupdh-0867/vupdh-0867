@@ -2,7 +2,7 @@
 - 👀 I’m interested in myself
 - 🌱 I’m currently learning how to be the best version of myself
 - 💞️ I’m looking for collaborating with best people in the world
-- 📫 How to reach me ...
+- 📫 You can reach me by email - phan.dang.hai.vu@sun-asterisk.com
 
 <!---
 vupdh-0867/vupdh-0867 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
